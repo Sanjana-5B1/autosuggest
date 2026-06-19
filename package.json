@@ -1,0 +1,23 @@
+{
+  "name": "autosuggest",
+  "version": "1.0.0",
+  "description": "verifying my git set-up\r this is second commit",
+  "homepage": "https://github.com/Sanjana-5B1/autosuggest#readme",
+  "bugs": {
+    "url": "https://github.com/Sanjana-5B1/autosuggest/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanjana-5B1/autosuggest.git"
+  },
+  "license": "ISC",
+  "author": "sanjana",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
