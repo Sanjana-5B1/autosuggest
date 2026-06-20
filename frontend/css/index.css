@@ -1,39 +1,52 @@
 h1{
-    color: red;
+    color :red;
 }
 #heading-2{
-    color: blue;
+    color :blue;
 }
-
 .heading{
-    color: rgb(244, 110, 15);
+    color :orange;
 }
 .para{
-    border: 2px;
+    border:2px;
     border-color: black;
     border-style: solid;
-    padding: 20px;
-    text-align: center;
+    padding:20px;
 }
 .navbar{
     border: 3px;
     border-style: solid;
-    border-color: black;
+    border-color: rgb(189, 146, 197);
     padding: 15px;
-    background-color: antiquewhite;
+    background-color: rgb(44, 1, 86);
     text-align: center;
-
 }
-
 .navbar a{
-    color: brown;
+    color: rgb(240, 223, 207);
     padding: 15px;
     text-decoration: none;
 }
 .navbar a:hover{
-    background-color: aqua;
-    color: black;
+    background-color: rgb(122, 60, 160);
+    color: white;
 }
 body{
-    margin: 0px;
+    margin:0px;
 }
+.card{
+    border: 2px solid black ;
+    width: 300px;
+    text-align: center;
+    margin: 30px auto;
+}
+.card img{
+    width: 100%;
+}
+.card button{
+    margin-bottom: 20px;
+}
+
+
+
+
+
